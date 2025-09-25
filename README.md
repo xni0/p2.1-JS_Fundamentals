@@ -2,7 +2,7 @@
 
 ### 2DAW - DWEC Bilingual. 
 
-> **Lucilene Vidal Lima**:  
+> **Lucilene Vidal Lima**  
 
 #### Files included in this repository:
 
